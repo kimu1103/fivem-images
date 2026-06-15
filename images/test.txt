@@ -1,1 +1,2 @@
 test
+https://cdn.jsdelivr.net/gh/kimu1103/fivem-images/images/画像名.png
